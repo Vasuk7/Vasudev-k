@@ -32,4 +32,4 @@ To pull the code from the repository, follow these steps:
    Open your terminal or command prompt and run the following command:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Vasuk7/vasudev-k.git
